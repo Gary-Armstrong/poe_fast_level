@@ -1,0 +1,29 @@
+# ACT 1
+Y: Kill Hillock.
+Y: Talk to Tarkleigh.
+Y: Enter The Coast.
+Y: Go to end of area, acquire waypoint.
+Y: Enter Mud Flats.
+Y: Activate 3 rhoa nests. Take glyphs to wall and open.
+Y: Enter Submerged Passage, acquire waypoint.
+Y: Enter The Ledge, acquire waypoint.
+Y: Enter The Climb, optionally acquire waypoint.
+Y: Enter Lower Prison, acquire waypoint.
+Y: Waypoint to Submerged Passage.
+Y: Enter Flooded Depths. Generally south.
+Y: Kill Deep Dweller.
+Y: Talk to Tarkleigh for 2 quest rewards (skill book).
+Y: Waypoint to Lower Prison.
+Y: Enter Upper Prison.
+Y: Enter Warden's Quarters.
+O: Enter Warden's Chambers?
+Y: Kill Brutus.
+Y: Enter Prisoner's Gate.
+O: Waypoint to Tarkleigh (gem).
+O: Waypoint to Prisoner's Gate.
+Y: Enter Ship Graveyard, acquire waypoint near entrance.
+Y: Enter Ship Graveyard Cave.
+Y: Acquire Allflame.
+Y: Enter Cavern of Wrath, acquire waypoint.
+Y: Waypoint to Ship Graveyard.
+Y: Kill Fairgraves, near waypoint.
