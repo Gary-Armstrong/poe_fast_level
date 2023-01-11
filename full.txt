@@ -1,8 +1,21 @@
-# ACT 1
+Y: -> Yes
+O: -> Optional
+Y/O: -> I do not yet know if optional
+Enter -> Walk to entrance
+Go to -> Reach by fastest method desired
+Waypoint -> Use waypoint or portal scroll
+[north] -> top left
+[west] -> bottom left
+[south] -> bottom right
+[east] -> top right
+[cardinal directions] are usually from where you are at the time
+
+### ACT 1
 Y: Kill Hillock.
+Y: Enter Lioneye's Watch.
 Y: Talk to Tarkleigh.
 Y: Enter The Coast.
-Y: Go to end of area, acquire waypoint.
+Y: Walk to [east] end of The Coast, acquire waypoint.
 Y: Enter Mud Flats.
 Y: Activate 3 rhoa nests. Take glyphs to wall and open.
 Y: Enter Submerged Passage, acquire waypoint.
@@ -10,13 +23,14 @@ Y: Enter The Ledge, acquire waypoint.
 Y: Enter The Climb, optionally acquire waypoint.
 Y: Enter Lower Prison, acquire waypoint.
 Y: Waypoint to Submerged Passage.
-Y: Enter Flooded Depths. Generally south.
+Y: Enter Flooded Depths. [south]
 Y: Kill Deep Dweller.
-Y: Talk to Tarkleigh for 2 quest rewards (skill book).
+Y: Go to Lioneye's Watch.
+Y: Talk to Tarkleigh for 2 quest rewards. (gem) (skillbook)
 Y: Waypoint to Lower Prison.
 Y: Enter Upper Prison.
 Y: Enter Warden's Quarters.
-O: Enter Warden's Chambers?
+Y/O: Enter Warden's Chambers (after Brutus now?)
 Y: Kill Brutus.
 Y: Enter Prisoner's Gate.
 O: Waypoint to Tarkleigh (gem).
@@ -27,3 +41,52 @@ Y: Acquire Allflame.
 Y: Enter Cavern of Wrath, acquire waypoint.
 Y: Waypoint to Ship Graveyard.
 Y: Kill Fairgraves, near waypoint.
+Y: Waypoint to Lioneye's Watch.
+Y: Talk to Bestel. (skillbook)
+O: Talk to Nessa. (gem)
+Y: Waypoint to Cavern of Wrath.
+Y: Enter Cavern of Anger.
+Y: Enter Merveill's Lair.
+Y: Kill Merveill.
+Y: Enter Southern Forest.
+Y: Enter Forest Encampment.
+
+### ACT 2
+Y: Enter The Old Fields.
+Y: Enter The Crossroads.
+Y: Acquire waypoint on road.
+Y/O: Enter Chamber of Sins. [north]
+Y/O: Descend to Level 2.
+Y/O: Kill Fedelitas, acquire quest item.
+Y/O: Go to Forest Encampment.
+O: Talk to Greust (gem).
+O: Waypoint to The Crossroads.
+Y: Kill Kraityn.
+Y: Go to Forest Encampment.
+Y: Enter Riverways.
+Y: Acquire waypoint on road.
+Y: Enter Wetlands [north] on road from waypoint.
+Y: Kill Oak.
+Y: Acquire waypoint [north].
+Y: Waypoint to Riverways.
+Y: Enter The Western Forest [west] on road.
+Y: Acquire waypoint on road.
+Y: Kill or help Alira, same side of road as waypoint. (?)
+Y: Go [west], acquire seal, open gate.
+Y: Enter Weaver's Chambers, opposite from Alira.
+Y: Kill The Weaver, acquire Maligaro's Spike.
+Y: Portal to Lioneye's Watch, acquire (skillbook)
+Y: Waypoint to Forest Encampment, acquire rewards (list these)
+Y: Waypoint to The Wetlands.
+Y: Kill tree. Enter The Vaal Ruins.
+Y: Enter Northern Forest.
+Y: Enter The Caverns. [north]
+Y: Acquire waypoint.
+Y: Enter Ancient Pyramid.
+Y: Enter Pyramid Apex.
+Y: Kill Vaal Oversoul.
+Y: Enter City of Sarn.
+Y: Talk to Clarissa.
+Y: Enter Sarn Encampment. [west] down stairs to docks.
+
+### ACT 3
