@@ -90,3 +90,62 @@ Y: Talk to Clarissa.
 Y: Enter Sarn Encampment. [west] down stairs to docks.
 
 ### ACT 3
+Y: Enter The Slums.
+Y: Enter The Crematorium.
+Y: Kill Piety, acquire Tolman's bracelet.
+Y: Go to Sarn Encampment.
+Y: Talk to Clarissa.
+Y: Enter The Slums.
+Y: Enter The Sewers.
+Y: Acquire one bust, acquire waypoint, acquire two busts.
+Y: Enter The Marketplace.
+Y: Acquire waypoint.
+Y: Enter The Battlefront.
+Y: Acquire waypoint. [center] of area.
+Y: Acquire Ribbon Spool. [west]
+Y: Enter Solaris Temple Level 1. [north]
+Y: Enter Solaris Temple Level 2.
+Y: Acquire waypoint.
+Y: Waypoint to The Battlefront.
+Y: Enter The Docks. [west]
+Y: Acquire Thaumetic Sulphite.
+Y: Go to Sarn Encampment.
+Y: Talk to Hargan (skillbook)
+Y: Waypoint to Solaris Temple Level 2.
+Y: Talk to Lady Dialla.
+Y: Waypoint to The Sewers.
+Y: Burn Undying Blockage. [west] near waypoint
+Y: Enter The Ebony Barracks.
+Y: Kill Gravicius. [north]
+Y: Enter Lunaris Temple Level 1. [north]
+Y: Acquire waypoint.
+Y: Enter Lunaris Temple Level 2.
+Y: Ascend stairs for correct path.
+Y: Reaching carts, side with 2 carts is dead end. Side with 1 cart is correct.
+Y: Kill Piety, acquire Tower Key.
+Y: Go to Sarn Encampment.
+Y: Talk to Grigor. (skillbook)
+O: Talk to Maramoa. (gem)
+Y: Waypoint to Ebony Barracks.
+Y: Enter Imperial Gardens. [east]
+Y: Acquire waypoint on road.
+O: Enter Library on [north] path.
+O: Acquire waypoint.
+O: Find Loose Candle.
+O: Enter The Archives.
+O: Acquire 4 Golden Pages.
+O: Portal to town, waypoint to The Library.
+O: Talk to Siosa.
+O: Waypoint to Imperial Gardens.
+Y: Enter The Sceptre of God. [south]
+Y: Enter Upper The Sceptre of God.
+Y: Kill Dominus.
+Y: Enter The Aqueducts.
+Y: Enter Highgate.
+
+### ACT 4
+Y: Enter The Dried Lake.
+Y: Kill Voll, acquire Deshret’s Banner.
+Y: Go to Highgate.
+Y: Enter The Mines Level 1.
+Y: Enter The Mines Level 2.
