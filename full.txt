@@ -149,3 +149,34 @@ Y: Kill Voll, acquire Deshret’s Banner.
 Y: Go to Highgate.
 Y: Enter The Mines Level 1.
 Y: Enter The Mines Level 2.
+Y: Release Deshret's spirit.
+Y: Enter The Crystal Veins.
+Y: Acquire waypoint.
+Y: Waypoint to Highgate.
+Y: Talk to Tasuni. (skillbook)
+O: Talk to Oyun. (gem)
+Y: Waypoint to Crystal Veins.
+Y: Enter Kaom's Dream.
+Y: Enter Kaom's Stronghold.
+Y: Acquire waypoint.
+Y: Enter Caldera of the King.
+Y: Kill Kaom.
+Y: Portal to Highgate.
+Y: Waypoint to Crystal Veins.
+Y: Enter Daresso's Dream.
+Y: Kill Barkhul.
+Y: Acquire waypoint.
+Y: Kill The Trio.
+Y: Enter The Ring of Blades.
+Y: Kill Daresso, acquire Eye of Desire.
+Y: Portal to Highgate.
+Y: Waypoint to Crystal Veins.
+Y: Talk to Dialla.
+Y: Enter Belly of the Beast Level 1.
+Y: Enter Belly of the Beast Level 2.
+Y: Enter Bowels of the Beast.
+Y: Kill Piety.
+Y: Enter The Harvest.
+O: Acquire waypoint.
+O: Waypoint to Highgate.
+O: Talk to Dialla. (gem)
