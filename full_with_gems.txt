@@ -14,36 +14,33 @@ Waypoint -> Use waypoint or portal scroll
 ### ACT 1
 Y: Kill Hillock.
 Y: Enter Lioneye's Watch.
-Y: Talk to Tarkleigh.
 Y: Enter The Coast.
 Y: Walk to [east] end of The Coast, acquire waypoint.
 Y: Enter Mud Flats.
 Y: Activate 3 rhoa nests, acquire glyphs.
+Y: Activate glyph wall.
 Y: Enter Submerged Passage [east], acquire waypoint.
-Y: Enter The Ledge, acquire waypoint.
-Y: Enter The Climb, optionally acquire waypoint.
+Y: Enter The Ledge [north?].
+Y: Enter The Climb.
 Y: Enter Lower Prison, acquire waypoint.
 L: Labyrinth Trial 1.
-Y: Waypoint to Submerged Passage.
-Y: Enter Flooded Depths. [south]
-Y: Kill Deep Dweller.
-Y: Go to Lioneye's Watch.
-Y: Talk to Tarkleigh for 2 quest rewards. (gem) (skillbook)
-Y: Waypoint to Lower Prison.
-Y: Enter Upper Prison.
+Y: Enter Upper Prison. [east] then [south]
 Y: Enter Warden's Quarters.
-Y/O: Enter Warden's Chambers (after Brutus now?)
 Y: Kill Brutus.
+Y: Enter Warden's Chambers.
 Y: Enter Prisoner's Gate.
-O: Waypoint to Tarkleigh (gem).
-O: Waypoint to Prisoner's Gate.
 Y: Enter Ship Graveyard, acquire waypoint near entrance.
 Y: Enter Ship Graveyard Cave.
 Y: Acquire Allflame.
-Y: Enter Cavern of Wrath, acquire waypoint.
+Y: Enter Ship Graveyard.
+Y: Enter Cavern of Wrath, acquire waypoint near entrance.
 Y: Waypoint to Ship Graveyard.
 Y: Kill Fairgraves, near waypoint.
-Y: Waypoint to Lioneye's Watch.
+Y: Waypoint to Submerged Passage.
+Y: Enter Flooded Depths. [west]
+Y: Kill Deep Dweller.
+Y: Go to Lioneye's Watch.
+Y: Talk to Tarkleigh. (gem) (skillbook)
 Y: Talk to Bestel. (skillbook)
 O: Talk to Nessa. (gem)
 Y: Waypoint to Cavern of Wrath.
