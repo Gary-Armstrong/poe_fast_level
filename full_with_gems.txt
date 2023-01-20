@@ -61,6 +61,7 @@ O: Go to Forest Encampment.
 O: Talk to Helena.
 O: Talk to Greust (gem).
 O: Waypoint to The Crossroads.
+Y: Enter The Broken Bridge. [east]
 Y: Kill Kraityn. [east]
 Y: Go to Forest Encampment.
 Y: Enter Riverways.
