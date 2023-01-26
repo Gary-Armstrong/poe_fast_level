@@ -54,13 +54,13 @@ Y: Enter Forest Encampment.
 Y: Enter The Old Fields.
 Y: Enter The Crossroads.
 Y: Acquire waypoint on road.
-O: Enter Chamber of Sins. [north]
-O: Descend to Level 2.
-O: Kill Fedelitas, acquire Baleful Gem.
+Y: Enter Chamber of Sins. [north]
+Y: Descend to Level 2.
+Y: Kill Fedelitas, acquire Baleful Gem.
 O: Go to Forest Encampment.
 O: Talk to Helena.
 O: Talk to Greust (gem).
-O: Waypoint to The Crossroads.
+Y: Waypoint to The Crossroads.
 Y: Enter The Broken Bridge. [east]
 Y: Kill Kraityn. [east]
 Y: Go to Forest Encampment.
@@ -70,15 +70,16 @@ Y: Enter Wetlands [north] on road from waypoint.
 Y: Kill Oak.
 Y: Acquire waypoint [north].
 Y: Waypoint to Riverways.
-Y: Enter The Western Forest [west] on road.
+Y: Enter The Western Forest [west] or [south] on road.
 Y: Acquire waypoint on road.
 Y: Kill or help Alira, same side of road as waypoint. (?)
 Y: Go [west], acquire seal, open gate.
 Y: Enter Weaver's Chambers, opposite from Alira.
 Y: Kill The Weaver, acquire Maligaro's Spike.
-Y: Go to Lioneye's Watch, acquire (skillbook)
-Y: Waypoint to Forest Encampment.
-Y: Talk to Eramir. (skillbook) ?verify?
+Y: Go to Forest Encampment.
+Y: Talk to Eramir. (skillbook)
+Y: Waypoint to Lioneye's Watch.
+Y: Talk to Bestel. (skillbook)
 Y: Waypoint to The Wetlands.
 Y: Kill tree. Enter The Vaal Ruins.
 Y: Enter Northern Forest.
@@ -296,10 +297,10 @@ Y: Enter The Ashen Fields.
 Y: Enter The Fortress Encampment. [west]
 Y: Kill Greust.
 Y: Enter The Northern Forest, acquire waypoint.
-Y: Enter The Dread Thicket.
+Y: Enter The Dread Thicket. [west]
 O: Acquire Fireflies.
 Y: Enter The Den of Despair.
-Y: Kill Gruthkul. ?talk to sin?
+Y: Kill Gruthkul. talk to sin
 Y: Enter The Dread Thicket.
 Y: Acquire Fireflies.
 Y: Go to Bridge Encampment.
