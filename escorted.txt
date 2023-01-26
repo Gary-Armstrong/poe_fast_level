@@ -1,0 +1,442 @@
+Escorted completion of story.
+
+Legend
+Y: -> Yes, do this
+O: -> Optional, for new leagues. Usually gems.
+Y/O: -> I do not yet know if optional
+L: Labyrinth Trial
+Enter -> Walk to entrance
+Go to -> Reach by fastest method desired
+Waypoint -> Use waypoint or portal scroll
+[north] -> top left
+[west] -> bottom left
+[south] -> bottom right
+[east] -> top right
+[cardinal directions] are usually from where you are at the time
+
+### ACT 1
+Y: Kill Hillock.
+Y: Enter Lioneye's Watch.
+Y: Enter The Coast.
+Y: Walk to [east] end of The Coast, acquire waypoint.
+Y: Enter Mud Flats.
+Y: Activate 3 rhoa nests, acquire glyphs.
+Y: Activate glyph wall.
+Y: Enter Submerged Passage [east], acquire waypoint.
+Y: Enter The Ledge [north?].
+Y: Enter The Climb.
+Y: Enter Lower Prison, acquire waypoint.
+L: Labyrinth Trial 1.
+Y: Enter Upper Prison. [east] then [south]
+Y: Enter Warden's Quarters.
+Y: Kill Brutus.
+Y: Enter Warden's Chambers.
+Y: Enter Prisoner's Gate.
+Y: Enter Ship Graveyard, acquire waypoint near entrance.
+Y: Enter Ship Graveyard Cave.
+Y: Acquire Allflame.
+Y: Enter Ship Graveyard.
+Y: Enter Cavern of Wrath, acquire waypoint near entrance.
+Y: Waypoint to Ship Graveyard.
+Y: Kill Fairgraves, near waypoint.
+Y: Waypoint to Submerged Passage.
+Y: Enter Flooded Depths. [west]
+Y: Kill Deep Dweller.
+Y: Go to Lioneye's Watch.
+Y: Talk to Tarkleigh. (gem) (skillbook)
+Y: Talk to Bestel. (skillbook)
+O: Talk to Nessa. (gem)
+Y: Waypoint to Cavern of Wrath.
+Y: Enter Cavern of Anger.
+Y: Enter Merveill's Lair.
+Y: Kill Merveill.
+Y: Enter Southern Forest.
+Y: Enter Forest Encampment.
+
+### ACT 2
+Y: Enter The Old Fields.
+Y: Enter The Crossroads.
+Y: Acquire waypoint on road.
+Y: Enter Chamber of Sins. [north]
+Y: Descend to Level 2.
+Y: Kill Fedelitas, acquire Baleful Gem.
+O: Go to Forest Encampment.
+O: Talk to Helena.
+O: Talk to Greust (gem).
+Y: Waypoint to The Crossroads.
+Y: Enter The Broken Bridge. [east]
+Y: Kill Kraityn. [east]
+Y: Go to Forest Encampment.
+Y: Enter Riverways.
+Y: Acquire waypoint on road.
+Y: Enter Wetlands [north] on road from waypoint.
+Y: Kill Oak.
+Y: Acquire waypoint [north].
+Y: Waypoint to Riverways.
+Y: Enter The Western Forest [west] or [south] on road.
+Y: Acquire waypoint on road.
+Y: Kill or help Alira, same side of road as waypoint. (?)
+Y: Go [west], acquire seal, open gate.
+Y: Enter Weaver's Chambers, opposite from Alira.
+Y: Kill The Weaver, acquire Maligaro's Spike.
+Y: Go to Forest Encampment.
+Y: Talk to Eramir. (skillbook)
+Y: Waypoint to Lioneye's Watch.
+Y: Talk to Bestel. (skillbook)
+Y: Waypoint to The Wetlands.
+Y: Kill tree. Enter The Vaal Ruins.
+Y: Enter Northern Forest.
+Y: Enter The Caverns. [north]
+Y: Acquire waypoint.
+Y: Enter Ancient Pyramid.
+Y: Enter Pyramid Apex.
+Y: Kill Vaal Oversoul.
+Y: Enter City of Sarn.
+Y: Talk to Clarissa.
+Y: Enter Sarn Encampment. [west] down stairs to docks.
+
+### ACT 3
+Y: Enter The Slums.
+Y: Enter The Crematorium.
+L: Labyrinth Trial.
+Y: Kill Piety, acquire Tolman's bracelet.
+Y: Go to Sarn Encampment.
+Y: Talk to Clarissa.
+Y: Enter The Slums.
+Y: Enter The Sewers.
+Y: Acquire one bust, acquire waypoint, acquire two busts.
+Y: Enter The Marketplace.
+Y: Acquire waypoint.
+L: Enter Catacombs.
+L: Labyrinth Trial 2.
+L: Go to Sarn Encampment.
+L: Waypoint to The Marketplace.
+Y: Enter The Battlefront.
+Y: Acquire waypoint. [center] of area.
+Y: Acquire Ribbon Spool. [west]
+Y: Enter Solaris Temple Level 1. [north]
+Y: Enter Solaris Temple Level 2.
+Y: Acquire waypoint.
+Y: Waypoint to The Battlefront.
+Y: Enter The Docks. [west]
+Y: Acquire Thaumetic Sulphite.
+Y: Go to Sarn Encampment.
+Y: Talk to Hargan (skillbook)
+Y: Waypoint to Solaris Temple Level 2.
+Y: Talk to Lady Dialla.
+Y: Waypoint to The Sewers.
+Y: Burn Undying Blockage. [west] near waypoint
+Y: Enter The Ebony Barracks.
+Y: Kill Gravicius. [north]
+Y: Enter Lunaris Temple Level 1. [north]
+Y: Acquire waypoint.
+Y: Enter Lunaris Temple Level 2.
+Y: Ascend stairs for correct path.
+Y: Reaching carts, side with 2 carts is dead end. Side with 1 cart is correct.
+Y: Kill Piety, acquire Tower Key.
+Y: Go to Sarn Encampment.
+Y: Talk to Grigor. (skillbook)
+O: Talk to Maramoa. (gem)
+Y: Waypoint to Ebony Barracks.
+Y: Enter Imperial Gardens. [east]
+Y: Acquire waypoint on road.
+O: Enter Library on [north] path.
+O: Acquire waypoint.
+O: Find Loose Candle.
+O: Enter The Archives.
+O: Acquire 4 Golden Pages.
+O: Portal to town, waypoint to The Library.
+O: Talk to Siosa.
+O: Waypoint to Imperial Gardens.
+L: Labyrinth Trial 3. [northeast]
+L: Go to Sarn Encampment.
+L: Waypoint to Imperial Gardens.
+Y: Enter The Sceptre of God. [south]
+Y: Enter Upper The Sceptre of God.
+Y: Kill Dominus.
+Y: Enter The Aqueducts.
+Y: Enter Highgate.
+
+### ACT 4
+Y: Enter The Dried Lake.
+Y: Kill Voll, acquire Deshret’s Banner.
+Y: Go to Highgate.
+Y: Enter The Mines Level 1.
+Y: Enter The Mines Level 2.
+Y: Release Deshret's spirit.
+Y: Enter The Crystal Veins.
+Y: Acquire waypoint.
+Y: Waypoint to Highgate.
+Y: Talk to Tasuni. (skillbook)
+O: Talk to Oyun. (gem)
+Y: Waypoint to Crystal Veins.
+Y: Enter Kaom's Dream.
+Y: Enter Kaom's Stronghold.
+Y: Acquire waypoint.
+Y: Enter Caldera of the King.
+Y: Kill Kaom.
+Y: Portal to Highgate.
+Y: Waypoint to Crystal Veins.
+Y: Enter Daresso's Dream.
+Y: Kill Barkhul.
+Y: Acquire waypoint.
+Y: Kill The Trio.
+Y: Enter The Ring of Blades.
+Y: Kill Daresso, acquire Eye of Desire.
+Y: Portal to Highgate.
+Y: Waypoint to Crystal Veins.
+Y: Talk to Dialla.
+Y: Enter Belly of the Beast Level 1.
+Y: Enter Belly of the Beast Level 2.
+Y: Enter Bowels of the Beast.
+Y: Kill Piety.
+Y: Enter The Harvest.
+O: Acquire waypoint.
+O: Waypoint to Highgate.
+O: Talk to Dialla. (gem)
+O: Waypoint to The Harvest.
+Y: Kill Doedre, Maligaro, and Shavronne. Acquire organs.
+Y: Enter The Black Core.
+Y: Kill Malachai.
+Y: Go to Highgate.
+Y: Enter The Ascent. [east]
+Y: Use resonator, enter Oriath.
+
+### ACT 5
+Y: Acquire waypoint.
+Y: Enter Slave Pens.
+Y: Kill Overseer Crow.
+Y: Enter Overseer's Tower.
+O: Talk to Lani. (ring) ?can this happen later?
+Y: Enter Control Blocks.
+Y: Acquire Miasmeter. Usually in left side of area.
+Y: Kill Justicar Casticus, acquire Eyes of Zeal.
+Y: Enter Oriath Square.
+Y: Enter Templar Courts.
+Y: Enter The Chamber of Innocence, acquire waypoint.
+Y: Enter The Sanctum of Innocence.
+Y: Kill High Templar Avarius and Innocence.
+Y: Enter The Chamber of Innocence.
+Y: Enter Torched Courts.
+Y: Enter Ruined Square.
+Y: Enter The Ossuary. [north]
+Y: Acquire Sign of Purity.
+Y: Enter Ruined Square.
+Y: Enter The Reliquary.
+Y: Acquire Kitava's Torments.
+Y: Go to Overseer's Tower.
+Y: Talk to Lani and Vilenta (skillbook jewel)
+Y: Waypoint to Ruined Square.
+Y: Enter Cathedral Rooftop.
+Y: Enter Cathedral Apex.
+Y: Kill Kitava.
+Y: Talk to Lily.
+
+### ACT 6
+O: New league? Unlock Lily Roth as a vendor.
+O: Enter Twilight Strand.
+O: Kill everything.
+O: Go to Lioneye's Watch.
+O: Talk to Lily.
+Y: Enter The Coast, acquire waypoint.
+Y: Enter The Mud Flats.
+Y: Kill The Dishonored Queen, acquire Eye of Conquest.
+Y: Enter Karui Fortress. [northeast]
+Y: Enter Tukohama's Keep.
+Y: Kill Tukohama.
+Y: Talk to Sin.
+Y: Enter The Ridge.
+Y: Enter Lower Prison, acquire waypoint.
+L: Labyrinth Trial 4.
+Y: Enter Shavronne's Tower.
+Y: Enter Prison Rooftop.
+Y: Kill Brutus and Shavronne.
+Y: Enter Warden's Chambers.
+Y: Enter Prisoner's Gate, acquire waypoint.
+Y: Enter Valley of the Fire Drinker.
+Y: Kill Abberath.
+Y: Go to Lioneye's Watch.
+Y: Talk to Bestel. (skillbook)
+Y: Waypoint to Prisoner's Gate.
+Y: Enter The Western Forest.
+Y: Acquire waypoint on road.
+Y: Enter The Riverways.
+Y: Acquire waypoint on road.
+Y: Enter The Wetlands. [north]
+Y: Enter The Spawning Ground.
+Y: Kill The Puppet Mistress.
+Y: Go to Lioneye's Watch.
+Y: Talk to Tarkleigh twice. (skillbook)
+Y: Waypoint to The Riverways.
+Y: Enter The Southern Forest. [south]
+Y: Acquire waypoint.
+Y: Enter The Cavern of Anger.
+Y: Acquire Black Flag.
+Y: Enter The Beacon. ?is there an area between Anger and Beacon?
+Y: Acquire waypoint.
+Y: Solve pyramid beacon. [east]
+Y: Talk to Weylam, enter Brine King's Reef.
+Y: Acquire waypoint.
+Y: Enter The Brine King's Throne.
+Y: Kill The Brine King.
+Y: Talk to Sin.
+Y: Talk to Weylam.
+
+### ACT 7
+Y: Enter The Broken Bridge.
+Y: Enter The Crossroads. [west]
+Y: Acquire waypoint on road.
+Y: Enter Fellshrine Ruins. [south]
+Y: Enter The Crypt, acquire waypoint.
+T: Labyrinth Trial 5.
+Y: Find sarcophagus, enter The Crypt Level 2.
+Y: Acquire Maligaro's Map.
+Y: Go to Bridge Encampment.
+Y: Waypoint to The Crossroads.
+Y: Enter The Chamber of Sins Level 2. [north]
+T: Labyrinth Trial 6.
+Y: Enter The Den.
+Y: Enter The Ashen Fields.
+Y: Enter The Fortress Encampment. [west]
+Y: Kill Greust.
+Y: Enter The Northern Forest, acquire waypoint.
+Y: Enter The Dread Thicket. [west]
+O: Acquire Fireflies.
+Y: Enter The Den of Despair.
+Y: Kill Gruthkul. talk to sin
+Y: Enter The Dread Thicket.
+Y: Acquire Fireflies.
+Y: Go to Bridge Encampment.
+Y: Talk to Eramir. (skillbook)
+Y: Waypoint to Northern Forest.
+Y: Enter The Causeway, acquire waypoint.
+Y: Acquire Kishara's Star near exit.
+Y: Enter The Vaal City.
+Y: Talk to Yeena, acquire waypoint.
+Y: Enter The Temple of Decay Level 1.
+Y: Enter The Temple of Decay Level 2.
+Y: Enter Arakaali's Web.
+Y: Kill Arakaali.
+Y: Enter The Sarn Ramparts.
+Y: Enter The Sarn Encampment.
+
+### ACT 8
+Y: Enter The Toxic Conduits.
+Y: Enter Doedre's Cesspool.
+Y: Enter The Cauldron.
+Y: Kill Doedre the Vile.
+Y: Enter The Sewer Outlet, acquire waypoint.
+Y: Go right, enter The Quay.
+Y: Acquire Ankh of Eternity. Near entrance?
+Y: Enter The Resurrection Site.
+Y: Kill Tolman.
+Y: Talk to Clarissa.
+Y: Enter The Quay.
+Y: Enter The Grain Gate.
+Y: Acquire waypoint.
+Y: Kill Gemling Legionnaires. [northeast]
+Y: Enter The Imperial Fields.
+Y: Acquire waypoint on road.
+Y: Go to Sarn Encampment.
+Y: Waypoint to Imperial Fields.
+Y: Enter The Solaris Temple Level 1.
+Y: Enter The Solaris Temple Level 2.
+Y: Kill Dawn, acquire Sun Orb.
+Y: Go to Sarn Encampment.
+Y: Waypoint to Toxic Conduits.
+Y: Go left and enter The Grand Promenade.
+Y: Enter The Bath House.
+Y: Acquire waypoint.
+Y: Enter The High Gardens.
+Y: Enter The Pools of Terror.
+Y: Kill Yugul.
+Y: Go to Sarn Encampment.
+Y: Talk to Clarissa, Maramoa, and Hargan. (skillbook)
+L: Enter Labyrinth Trial.
+L: Go to Sarn Encampment.
+L: Waypoint to The Bath House.
+Y: Enter The Lunaris Concourse.
+Y: Acquire waypoint.
+Y: Enter Lunaris Temple Level 1.
+Y: Acquire waypoint.
+Y: Enter Lunaris Temple Level 2.
+Y: Kill Dusk, acquire Moon Orb.
+Y: Go to Sarn Encampment.
+Y: Waypoint to Lunaris Concourse.
+Y: Enter Harbour Bridge. [south]?
+Y: Enter The Sky Shrine.
+Y: Kill Solaris and Lunaris.
+Y: Enter The Blood Aqueducts.
+Y: Enter Highgate.
+
+### ACT 9
+Y: Enter The Descent.
+Y: Enter Vastiri Desert.
+Y: Acquire waypoint.
+Y: Open the Storm Weathered Chest.
+Y: Portal to Highgate.
+Y: Talk to Petarus and Vanja.
+Y: Talk to Sin.
+Y: Talk to Petarus and Vanja.
+Y: Portal return to Vastiri Desert.
+Y: Enter The Oasis.
+Y: Enter The Sand Pit.
+Y: Kill Shakari.
+Y: Go to Highgate.
+Y: Talk to Irasha. (skillbook)
+Y: Waypoint to Vastiri Desert.
+Y: Enter The Foothills.
+Y: Acquire waypoint. [east]?
+Y: Enter The Boiling Lake.
+Y: Kill The Basilisk, acquire Basilisk Acid.
+Y: Go to Highgate.
+Y: Waypoint to The Foothills.
+Y: Enter The Tunnel. [north]
+Y: Acquire waypoint.
+L: Labyrinth Trial 7.
+Y: Enter The Quarry, acquire waypoint in center.
+Y: Enter The Shrine of the Winds.
+Y: Kill Garukhan. ?return to Quarry directly?
+Y: Go to Highgate.
+Y: Talk to Irasha. (skillbook)
+Y: Waypoint to The Quarry.
+Y: Enter The Refinery.
+Y: Kill General Adus.
+Y: Acquire Trarthan Powder.
+Y: Go to Highgate.
+Y: Waypoint to The Quarry.
+Y: Talk to Sin.
+Y: Enter The Belly of the Beast.
+Y: Enter The Rotting Core.
+Y: Enter The Black Core.
+Y: Talk to Sin.
+Y: Kill Maligaro, Doedre, and Shavronne.
+Y: Enter The Black Heart.
+Y: Kill The Depraved Trinity.
+Y: Talk to Lily.
+
+### ACT 10
+Y: Enter The Cathedral Rooftop.
+Y: Enter The Cathedral Apex.
+Y: Kill everything.
+Y: Enter Cathedral Rooftop.
+Y: Enter The Ravaged Square.
+Y: Acquire waypoint. [east]
+L: Enter Ossuary.
+L: Labyrinth Trial 8.
+L: Enter The Ravaged Square.
+Y: Enter The Torched Courts. [south]?
+Y: Enter The Desecrated Chambers, acquire waypoint.
+Y: Kill Avarius Reassembled.
+Y: Waypoint to Oriath Docks.
+Y: Talk to Bannon and Lani. (skillbook)
+Y: Talk to Innocence.
+Y: Waypoint to The Ravaged Square.
+Y: Talk to Innocence. [east]
+Y: Enter The Canals.
+Y: Enter The Feeding Trough.
+Y: Talk to Sin.
+Y: Enter The Altar of Hunger.
+Y: Kill Kitava.
+Y: Go to Oriath Docks.
+Y: Talk to Lani. (skillbook)
