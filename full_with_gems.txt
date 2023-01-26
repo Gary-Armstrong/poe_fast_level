@@ -1,5 +1,6 @@
 Solo completion of story.
 
+Legend
 Y: -> Yes, do this
 O: -> Optional, for new leagues. Usually gems.
 Y/O: -> I do not yet know if optional
