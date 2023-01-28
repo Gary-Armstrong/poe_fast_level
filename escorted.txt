@@ -60,9 +60,6 @@ Y: Acquire waypoint on road.
 Y: Enter Chamber of Sins. [north]
 Y: Descend to Level 2.
 Y: Kill Fedelitas, acquire Baleful Gem.
-O: Go to Forest Encampment.
-O: Talk to Helena.
-O: Talk to Greust (gem).
 Y: Waypoint to The Crossroads.
 Y: Enter The Broken Bridge. [east]
 Y: Kill Kraityn. [east]

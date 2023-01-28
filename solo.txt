@@ -60,9 +60,6 @@ Y: Acquire waypoint on road.
 Y: Enter Chamber of Sins. [north]
 Y: Descend to Level 2.
 Y: Kill Fedelitas, acquire Baleful Gem.
-O: Go to Forest Encampment.
-O: Talk to Helena.
-O: Talk to Greust (gem).
 Y: Waypoint to The Crossroads.
 Y: Enter The Broken Bridge. [east]
 Y: Kill Kraityn. [east]
@@ -166,16 +163,13 @@ Y: Enter The Mines Level 2.
 Y: Release Deshret's spirit.
 Y: Enter The Crystal Veins.
 Y: Acquire waypoint.
-Y: Waypoint to Highgate.
-Y: Talk to Tasuni. (skillbook)
-O: Talk to Oyun. (gem)
-Y: Waypoint to Crystal Veins.
 Y: Enter Kaom's Dream.
 Y: Enter Kaom's Stronghold.
 Y: Acquire waypoint.
 Y: Enter Caldera of the King.
-Y: Kill Kaom.
+Y: Kill Kaom, acquire The Eye of Fury.
 Y: Portal to Highgate.
+Y: Talk to Tasuni. (skillbook)
 Y: Waypoint to Crystal Veins.
 Y: Enter Daresso's Dream.
 Y: Kill Barkhul.
