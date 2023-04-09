@@ -20,7 +20,7 @@ Y: Enter Lioneye's Watch.
 Y: Enter The Coast.
 Y: Walk to [east] end of The Coast, acquire waypoint.
 Y: Enter Mud Flats.
-Y: Activate 3 rhoa nests, acquire glyphs.
+Y: Activate 3 rhoa nests (connected by dry riverbeds), acquire glyphs.
 Y: Activate glyph wall.
 Y: Enter Submerged Passage [east], acquire waypoint.
 Y: Enter The Ledge [north?].
@@ -184,12 +184,10 @@ Y: Enter Belly of the Beast Level 1.
 Y: Enter Belly of the Beast Level 2.
 Y: Enter Bowels of the Beast.
 Y: Kill Piety.
+Y: Talk to Piety.
 Y: Enter The Harvest.
-O: Acquire waypoint.
-O: Waypoint to Highgate.
-O: Talk to Dialla. (gem)
-O: Waypoint to The Harvest.
 Y: Kill Doedre, Maligaro, and Shavronne. Acquire organs.
+Y: Talk to Piety.
 Y: Enter The Black Core.
 Y: Kill Malachai.
 Y: Go to Highgate.
@@ -249,9 +247,6 @@ Y: Enter Warden's Chambers.
 Y: Enter Prisoner's Gate, acquire waypoint.
 Y: Enter Valley of the Fire Drinker.
 Y: Kill Abberath.
-Y: Go to Lioneye's Watch.
-Y: Talk to Bestel. (skillbook)
-Y: Waypoint to Prisoner's Gate.
 Y: Enter The Western Forest.
 Y: Acquire waypoint on road.
 Y: Enter The Riverways.
@@ -261,6 +256,7 @@ Y: Enter The Spawning Ground.
 Y: Kill The Puppet Mistress.
 Y: Go to Lioneye's Watch.
 Y: Talk to Tarkleigh twice. (skillbook)
+Y: Talk to Bestel. (skillbook)
 Y: Waypoint to The Riverways.
 Y: Enter The Southern Forest. [south]
 Y: Acquire waypoint.
@@ -288,6 +284,10 @@ Y: Acquire Maligaro's Map.
 Y: Go to Bridge Encampment.
 Y: Waypoint to The Crossroads.
 Y: Enter The Chamber of Sins Level 2. [north]
+Y: Use map device, enter Maligaro's Sanctum.
+Y: Kill Maligaro, acquire thing.
+Y: Enter Chamber of Sins Level 1.
+Y: Talk to Silk, acquire Obsidian Key.
 T: Labyrinth Trial 6.
 Y: Enter The Den.
 Y: Enter The Ashen Fields.
@@ -313,6 +313,8 @@ Y: Enter Arakaali's Web.
 Y: Kill Arakaali.
 Y: Enter The Sarn Ramparts.
 Y: Enter The Sarn Encampment.
+Y: Talk to Weylam in Bridge Encampment. (skillbook)
+Y: Waypoint to The Sarn Encampment.
 
 ### ACT 8
 Y: Enter The Toxic Conduits.
@@ -331,8 +333,6 @@ Y: Acquire waypoint.
 Y: Kill Gemling Legionnaires. [northeast]
 Y: Enter The Imperial Fields.
 Y: Acquire waypoint on road.
-Y: Go to Sarn Encampment.
-Y: Waypoint to Imperial Fields.
 Y: Enter The Solaris Temple Level 1.
 Y: Enter The Solaris Temple Level 2.
 Y: Kill Dawn, acquire Sun Orb.
@@ -357,7 +357,7 @@ Y: Enter Lunaris Temple Level 2.
 Y: Kill Dusk, acquire Moon Orb.
 Y: Go to Sarn Encampment.
 Y: Waypoint to Lunaris Concourse.
-Y: Enter Harbour Bridge. [south]?
+Y: Enter Harbour Bridge. [south]
 Y: Enter The Sky Shrine.
 Y: Kill Solaris and Lunaris.
 Y: Enter The Blood Aqueducts.
@@ -432,5 +432,5 @@ Y: Enter The Feeding Trough.
 Y: Talk to Sin.
 Y: Enter The Altar of Hunger.
 Y: Kill Kitava.
-Y: Go to Oriath Docks.
+Y: Use Sin's portal to Oriath Docks.
 Y: Talk to Lani. (skillbook)
