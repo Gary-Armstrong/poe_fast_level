@@ -59,6 +59,7 @@ Y: Enter The Crossroads.
 Y: Acquire waypoint on road.
 Y: Enter Chamber of Sins. [north]
 Y: Descend to Level 2.
+L: Labyrinth Trial 2.
 Y: Kill Fedelitas, acquire Baleful Gem.
 Y: Waypoint to The Crossroads.
 Y: Enter The Broken Bridge. [east]
