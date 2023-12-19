@@ -113,8 +113,8 @@ Y: Enter The Battlefront.
 Y: Acquire waypoint. [center] of area.
 Y: Acquire Ribbon Spool. [west]
 Y: Enter Solaris Temple Level 1. [north]
-Y: Enter Solaris Temple Level 2.
 Y: Acquire waypoint.
+Y: Enter Solaris Temple Level 2.
 Y: Waypoint to The Battlefront.
 Y: Enter The Docks. [west]
 Y: Acquire Thaumetic Sulphite.
