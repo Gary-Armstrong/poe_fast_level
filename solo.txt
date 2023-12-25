@@ -62,6 +62,11 @@ Y: Descend to Level 2.
 L: Labyrinth Trial 2.
 Y: Kill Fedelitas, acquire Baleful Gem.
 Y: Waypoint to The Crossroads.
+L: Enter Felshrine Ruins. [south]
+L: Enter The Crypt Level 1.
+L: Labyrinth Trial 3.
+L: Go to Forest Encampment.
+L: Waypoint to The Crossroads.
 Y: Enter The Broken Bridge. [east]
 Y: Kill Kraityn. [east]
 Y: Go to Forest Encampment.
