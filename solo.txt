@@ -269,7 +269,7 @@ Y: Enter The Southern Forest. [south]
 Y: Acquire waypoint.
 Y: Enter The Cavern of Anger.
 Y: Acquire Black Flag.
-Y: Enter The Beacon. ?is there an area between Anger and Beacon?
+Y: Enter The Beacon.
 Y: Acquire waypoint.
 Y: Solve pyramid beacon. [east]
 Y: Talk to Weylam, enter Brine King's Reef.
