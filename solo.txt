@@ -292,7 +292,7 @@ Y: Go to Bridge Encampment.
 Y: Waypoint to The Crossroads.
 Y: Enter The Chamber of Sins Level 2. [north]
 Y: Use map device, enter Maligaro's Sanctum.
-Y: Kill Maligaro, acquire thing.
+Y: Kill Maligaro, acquire Black Venom.
 Y: Enter Chamber of Sins Level 1.
 Y: Talk to Silk, acquire Obsidian Key.
 T: Labyrinth Trial 6.
