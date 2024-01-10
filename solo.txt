@@ -290,11 +290,12 @@ Y: Find sarcophagus, enter The Crypt Level 2.
 Y: Acquire Maligaro's Map.
 Y: Go to Bridge Encampment.
 Y: Waypoint to The Crossroads.
-Y: Enter The Chamber of Sins Level 2. [north]
+Y: Enter The Chamber of Sins Level 1. [north]
 Y: Use map device, enter Maligaro's Sanctum.
 Y: Kill Maligaro, acquire Black Venom.
 Y: Enter Chamber of Sins Level 1.
 Y: Talk to Silk, acquire Obsidian Key.
+Y: Enter Chamber of Sins Level 2.
 T: Labyrinth Trial 6.
 Y: Enter The Den.
 Y: Enter The Ashen Fields.
